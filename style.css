@@ -1,4 +1,23 @@
 body {
-    background: rgb(199,199,199);
-    background: linear-gradient(90deg, rgba(199,199,199,1) 0%, rgba(0,0,0,1) 35%, rgba(255,0,0,1) 100%);
+    background: url(wallpaper.jpeg) ;
+
+background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+    
+    
+
+}
+
+p{
+    margin-top:75px;
+    text-align: justify;
+    font-size: 25px;
+    color: aliceblue;
+    background-color: black;
+}
+h1{
+    background:black;
+    color:aliceblue;
 }
